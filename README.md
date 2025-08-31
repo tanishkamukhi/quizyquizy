@@ -62,3 +62,5 @@ npm start     # or python app.py
 
 This project is licensed under the MIT License.
 
+🌐 Live Demo
+👉 Try the Quiz App here:- https://quizyyquizyy.netlify.app/
